@@ -1,0 +1,6 @@
+body {background: #cfdcff; font-size:12pt; color:#191970; font-family:Arial}
+p:first-letter { font-size: 150%; font-weight: normal; } 
+A:link {COLOR: #0000CD; text-decoration:  none}
+A:visited {COLOR: #8A2BE2; text-decoration: none}
+A:active {COLOR: #FFFFFF; text-decoration: none}
+A:hover {COLOR: #0000FF; text-decoration: underline}
